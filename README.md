@@ -1,4 +1,4 @@
-# Hệ thống Quản lý Bếp Trung Tâm và Cửa hàng Franchise  
+
 ## Central Kitchen and Franchise Store Management System – Backend
 
 ---
